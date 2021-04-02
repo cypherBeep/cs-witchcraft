@@ -1,6 +1,5 @@
 #+TITLE: Readme
 #+AUTHOR: cypherbeep
-#+OPTIONS: toc:nil
 #+STARTUP: overview
 
 * Structure and Interpretetion of Computer Programs Study Plan
