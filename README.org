@@ -1,4 +1,4 @@
-#+TITLE: "/*know thyself*/"
+#+TITLE: /*know thyself*/
 #+AUTHOR: cypherbeep
 #+STARTUP: overview
 
