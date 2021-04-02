@@ -2,13 +2,13 @@
 #+AUTHOR: cypherbeep
 #+STARTUP: overview
 
-* [[./sicp.org][SICP Study Plan and Notes]]
-* Next Books/Courses [/]
+*** [[./sicp.org][SICP Study Plan and Notes]]
+*** Next Books/Courses [/]
 - [ ] Software Design for Flexibility
 - [ ] Concepts, Techniques, and Models of Computer Programming
 - [ ] A Discpline of Programming
 - [ ] Domain-Driven Design
-* Credits
+*** Credits
 **** Book: https://sarabander.github.io/sicp/
 **** Course: Brain Harvey, Harold Abelson and Gerald Jay Sussman with Julie Sussman
 **** Solutions: https://github.com/codereport/
