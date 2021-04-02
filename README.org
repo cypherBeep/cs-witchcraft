@@ -19,10 +19,12 @@
   - [[https://www.greghendershott.com/fear-of-macros/all.html][Fear of Macros]]
   - [[https://www.openbookproject.net/books/StudentCSP/][Big Ideas in CS]]
   - [[https://github.com/schemedoc/bibliography][schemedoc]]
-** Functional Programming [0/4]
+** Functional Programming [0/5]
 - [ ] Read [Section 1.1: The Elements of Programming]
 - [ ] Watch Computer Science 61A - Lecture 1: functional programming
 - [ ] Watch Computer Science 61A - Lecture 2: functional programming
+- [ ] [[https://www.youtube.com/watch?v=z0N1aZ6SnBk][Erik Meijer: Functional Programming]]
+- [ ] [[https://www.youtube.com/playlist?list=PLTA0Ta9Qyspa5Nayx0VCHj5AHQJqp1clD][Dr. Erik Meijer - Functional Programming Fundamentals (13 mp4)]]
 ** Higher-order procedures [/]
 - [ ] Read [Section 1.3: Formulating Abstractions with Higher-Order Procedures]
 - [ ] Watch [Computer Science 61A - Lecture 3: higher-order procedures
@@ -96,13 +98,13 @@
 - [ ] Watch [Computer Science 61A - Lecture 43: logic programming]
 ** Review
 - [ ] Watch [Computer Science 61A - Lecture 44: Review]
-* Next Books/Courses
-** Software Design for Flexibility
-** Concepts, Techniques, and Models of Computer Programming
-** A Discpline of Programming
-** Domain-Driven Design
+* Next Books/Courses [/]
+- [ ] Software Design for Flexibility
+- [ ] Concepts, Techniques, and Models of Computer Programming
+- [ ] A Discpline of Programming
+- [ ] Domain-Driven Design
 * Credits
-** Book: https://sarabander.github.io/sicp/
-** Course: Brain Harvey, Harold Abelson and Gerald Jay Sussman with Julie Sussman
-** Solutions: https://github.com/codereport/
-** and all the other authors of cool books mentioned above.....
+**** Book: https://sarabander.github.io/sicp/
+**** Course: Brain Harvey, Harold Abelson and Gerald Jay Sussman with Julie Sussman
+**** Solutions: https://github.com/codereport/
+**** and all the other authors of cool books mentioned above.....
