@@ -19,12 +19,35 @@
   - [[https://www.greghendershott.com/fear-of-macros/all.html][Fear of Macros]]
   - [[https://www.openbookproject.net/books/StudentCSP/][Big Ideas in CS]]
   - [[https://github.com/schemedoc/bibliography][schemedoc]]
-** Functional Programming [0/5]
-- [ ] Read [Section 1.1: The Elements of Programming]
-- [ ] Watch Computer Science 61A - Lecture 1: functional programming
-- [ ] Watch Computer Science 61A - Lecture 2: functional programming
+** System Design
+*** General [0/4]
+- [ ] Design Patterns and OOP
+- [ ] Synchronization
+- [ ] Multithreading, Concurrency
+- [ ] Containers, Virtual Machines
+*** Scalability [/]
+- [ ] Vertical and Horizontal Scaling
+- [ ] CAP Theorem
+- [ ] ACID v BASE
+- [ ] Partitioning
+- [ ] Consistent Hashing
+- [ ] Caching
+*** Backend [/]
+- [ ] HTTP v HTTP2 v WebSockets
+- [ ] TCP/IP & UDP Protocols
+- [ ] ipv4, ipv6
+- [ ] DNS Lookup
+- [ ] HTTPS, TLS
+- [ ] CDN and Edge
+*** Database [/]
+- [ ] Relational v NoSQL
+- [ ] Types of NoSQL
+** Functional Programming [3/5]
+- [X] Read [Section 1.1: The Elements of Programming]
+- [X] Watch Computer Science 61A - Lecture 1: functional programming
+- [X] Watch Computer Science 61A - Lecture 2: functional programming
 - [ ] [[https://www.youtube.com/watch?v=z0N1aZ6SnBk][Erik Meijer: Functional Programming]]
-- [ ] [[https://www.youtube.com/playlist?list=PLTA0Ta9Qyspa5Nayx0VCHj5AHQJqp1clD][Dr. Erik Meijer - Functional Programming Fundamentals (13 mp4)]]
+- [ ] [[https://www.youtube.com/playlist?list=PLTA0Ta9Qyspa5Nayx0VCHj5AHQJqp1clD][Dr. Erik Meijer - Functional Programming Fundamentals]]
 ** Higher-order procedures [/]
 - [ ] Read [Section 1.3: Formulating Abstractions with Higher-Order Procedures]
 - [ ] Watch [Computer Science 61A - Lecture 3: higher-order procedures
