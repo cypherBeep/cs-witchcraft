@@ -48,8 +48,8 @@
 - [X] Watch Computer Science 61A - Lecture 2: functional programming
 - [ ] [[https://www.youtube.com/watch?v=z0N1aZ6SnBk][Erik Meijer: Functional Programming]]
 - [ ] [[https://www.youtube.com/playlist?list=PLTA0Ta9Qyspa5Nayx0VCHj5AHQJqp1clD][Dr. Erik Meijer - Functional Programming Fundamentals]]
-** Higher-order procedures [/]
-- [ ] Read [Section 1.3: Formulating Abstractions with Higher-Order Procedures]
+** Higher-order procedures [1/3]
+- [X] Read [Section 1.3: Formulating Abstractions with Higher-Order Procedures]
 - [ ] Watch [Computer Science 61A - Lecture 3: higher-order procedures
 - [ ] Watch [Computer Science 61A - Lecture 4: higher-order procedures
 ** Recursion and iteration [/]
