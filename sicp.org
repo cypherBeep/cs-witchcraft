@@ -42,16 +42,18 @@
 *** Database [/]
 - [ ] Relational v NoSQL
 - [ ] Types of NoSQL
-** Functional Programming [3/5]
+** Functional Programming [3/7]
 - [X] Read [Section 1.1: The Elements of Programming]
 - [X] Watch Computer Science 61A - Lecture 1: functional programming
 - [X] Watch Computer Science 61A - Lecture 2: functional programming
 - [ ] [[https://www.youtube.com/watch?v=z0N1aZ6SnBk][Erik Meijer: Functional Programming]]
+- [ ] [[https://www.youtube.com/watch?v=0if71HOyVjY][Functional Programming in 40 mins]]
+- [ ] [[https://www.youtube.com/watch?v=7Zlp9rKHGD4][Functional Programming What? Why? When? - Uncle Martin]]
 - [ ] [[https://www.youtube.com/playlist?list=PLTA0Ta9Qyspa5Nayx0VCHj5AHQJqp1clD][Dr. Erik Meijer - Functional Programming Fundamentals]]
-** Higher-order procedures [1/3]
+** Higher-order procedures [3/3]
 - [X] Read [Section 1.3: Formulating Abstractions with Higher-Order Procedures]
-- [ ] Watch [Computer Science 61A - Lecture 3: higher-order procedures
-- [ ] Watch [Computer Science 61A - Lecture 4: higher-order procedures
+- [X] Watch [Computer Science 61A - Lecture 3: higher-order procedures
+- [X] Watch [Computer Science 61A - Lecture 4: higher-order procedures
 ** Recursion and iteration [/]
 - [ ] Read [Section 1.2-1.2.4: Procedures and the Processes They Generate]
 - [ ] Watch [Computer Science 61A - Lecture 7: orders of growth]

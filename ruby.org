@@ -1,0 +1,8 @@
+#+TITLE: Ruby Notes
+#+STARTUP: overview
+
+* Why's Poignant Guide to Ruby
+
+- Link: [[http://poignant.guide][Poignant Guide to Ruby]]
+
+-
