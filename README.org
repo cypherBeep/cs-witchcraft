@@ -2,11 +2,12 @@
 #+AUTHOR: cypherbeep
 #+STARTUP: overview
 
-** Current Book/Course
-***** [[./sicp.org][SICP Study Plan and Notes]]
-** Next Books/Courses [/]
+** Books/Courses [1/7]
+ - [X] The Little Schemer
+ - [ ] SICP
  - [ ] Software Design for Flexibility
  - [ ] Concepts, Techniques, and Models of Computer Programming
+ - [ ] The Seasoned Schemer
  - [ ] A Discpline of Programming
  - [ ] Domain-Driven Design
 ** Credits
