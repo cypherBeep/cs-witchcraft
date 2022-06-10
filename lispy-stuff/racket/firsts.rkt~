@@ -1,0 +1,9 @@
+#lang racket
+
+(define firsts
+  (λ lat
+    (cond
+      ((null? lat) (quote ()))
+      (else
+       (cons (car (car lat))
+             (firsts (cdr lat)))))))
