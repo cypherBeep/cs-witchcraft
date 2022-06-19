@@ -145,4 +145,41 @@
     (cons s
           (cons newl p))))
 
-(evens-only*&co '(2 3 4 5 6) last-friend)
+;; (evens-only*&co '(2 3 4 5 6) last-friend)
+
+;; (((lambda (mk-length)
+;;    (mk-length mk-length))
+;;  (lambda (mk-length)
+;;    (lambda (list)
+;;      (cond
+;;        ((null? list) 0)
+;;        (else
+;;         (add1 ((mk-length mk-length) (cdr list))))))))
+;;  '(a b c d e f g h i j))
+
+(define pick
+  (λ (a lat)
+    (cond
+      ((eq? a 1) (car lat))
+      (else (pick (sub1 a) (cdr lat))))))
+
+(define looking (lambda (a lat)
+                  (keep-looking a (pick 1 lat) lat)))
+(define keep-looking (lambda (a sorn lat)
+                       (cond
+                         ((number? sorn)
+                          (keep-looking a (pick sorn lat) lat))
+                         (else (eq? sorn a)))))
+
+(define C (lambda (n)
+            (cond
+              ((eq? n 1) 1)
+              (else
+               (cond
+                 ((even? n) (C (+ n 2)))
+                 (else (C (add1 (* 3 n)))))))))
+
+(define A (lambda (n m)
+            (cond
+              ((zero? n) (add1 m)) ((zero? m) (A (sub1 n) 1)) (else (A (sub1 n)
+                                                                       (A n (sub1 m)))))))
